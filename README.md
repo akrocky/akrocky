@@ -4,4 +4,4 @@
 <img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="300" height="300" align="center">
 </p>
 
-<p align="center">Programming is my passion, fashion, and obsession. <br>  As a programming's fan,I love to roam the world of programming.<br/> I have won html,css,JavaScript(es6),React , React Native,Node,Express , <br> Mongodb, Rest API  ,  GrapgQl ,  Bootstrap, Tailwind, Material UI and done several projects. <br>  Also, I am ready to deal with the new  technology and the challenges that come with it. </p><br/>
+<p align="center">Programming is my passion, fashion, and obsession. <br>  As a programming's fan,I love to roam the world of programming.<br/> I have won html,css,JavaScript(es6),React , React Native,Node,Express,sequelize , <br> Mongodb,MySql,Postgres Rest API  ,  GrapgQl ,  Bootstrap, Tailwind, Material UI and done several projects. <br>  Also, I am ready to deal with the new  technology and the challenges that come with it. </p><br/>
